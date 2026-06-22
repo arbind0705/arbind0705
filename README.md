@@ -7,8 +7,9 @@
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/arbind0705)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email-here)
 
-![Profile Views](https://portfolio-v2-gules-three.vercel.app/)
+![Profile Views](https://komarev.com/ghpvc/?username=Parth-Tech-Creator&color=blueviolet&style=for-the-badge)
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-Live-blue?style=for-the-badge&logo=vercel)](https://portfolio-v2-gules-three.vercel.app/)
 </div>
 
 ---
